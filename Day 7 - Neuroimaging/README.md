@@ -1,1 +1,1 @@
-This folder contains the material of Day 7 - Neuroimaging.
+ This folder contains the material of Day 7 - Neuroimaging.
