@@ -5,7 +5,7 @@ VISUM 2018 Summer School -  http://visum.inesctec.pt/
 
 ## VISUM PROGRAMME
 <ul>
- 	<li><strong><strong>Day 0 - Machine Learning and </strong>Computer Vision* | </strong>by <strong><a href="http://visum.inesctec.pt/speaker/5-jaime-s-cardoso/">Jaime S. Cardoso</a> </strong>and<strong><a href="http://visum.inesctec.pt/speaker/6-luis-teixeira/"> Luís Teixeira</a>, </strong><a href="http://www.fe.up.pt/" target="_blank" rel="noopener noreferrer">FEUP</a><strong>, </strong>PT</li>
+ 	<li><strong><strong>Day 0 - Machine Learning and </strong>Computer Vision* | </strong>by <strong><a href="http://visum.inesctec.pt/speaker/6-jaime-s-cardoso/">Jaime S. Cardoso</a> </strong>and<strong><a href="http://visum.inesctec.pt/speaker/7-luis-teixeira/"> Luís Teixeira</a>, </strong><a href="http://www.fe.up.pt/" target="_blank" rel="noopener noreferrer">FEUP</a><strong>, </strong>PT</li>
  	<li><strong>Day 1 - Affective Computing | </strong>by <a href="http://visum.inesctec.pt/speaker/1-bjorn-w-schuller/"><strong>Björn W. Schuller</strong></a>, <a href="https://www.uni-augsburg.de/en/">University of Augsburg</a>, DE</li>
  	<li><strong>Day 2 - Deep Learning** | </strong>by <strong><a href="http://visum.inesctec.pt/speaker/2-ruslan-salakhutdinov/">Ruslan Salakhutdinov</a></strong>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, USA</li>
  	<li><strong>Day 4 - Statistical Shape Modelling | </strong>by<a href="http://visum.inesctec.pt/speaker/3-alejandro-frangi/"><strong> Alejandro Frangi</strong></a>, <a href="https://www.sheffield.ac.uk/">University of Sheffield</a><strong>, </strong>UK</li>
