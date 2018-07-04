@@ -18,3 +18,8 @@ VISUM 2018 Summer School -  http://visum.inesctec.pt/
 
 ![alt text](http://visum.inesctec.pt/wp-content/uploads/2018/07/programme_2018-1.png)
 
+## VISUM SPONSORS & PARTNERS
+| [![Neadvance](http://visum.inesctec.pt/wp-content/uploads/2018/02/neadvance_sponsor.png)](Neadvance)  | [![adapttech](http://visum.inesctec.pt/wp-content/uploads/2018/02/adapttech_sponsor.png)](http://www.adapttech.eu/) |
+|:---:|:---:|
+| http://www.neadvance.com/ | http://www.adapttech.eu/ |
+
