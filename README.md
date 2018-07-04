@@ -23,3 +23,16 @@ VISUM 2018 Summer School -  http://visum.inesctec.pt/
 |:---:|:---:|
 | http://www.neadvance.com/ | http://www.adapttech.eu/ |
 
+<table>
+<thead>
+<tr>
+<th align="center"><a href="/visum-summerschool/visum-2018/blob/master/Neadvance"><img src="https://camo.githubusercontent.com/a03bcfc41f4ee5b9f2d0aa8f9a3b7e54ab4bf83d/687474703a2f2f766973756d2e696e6573637465632e70742f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6e65616476616e63655f73706f6e736f722e706e67" alt="Neadvance" data-canonical-src="http://visum.inesctec.pt/wp-content/uploads/2018/02/neadvance_sponsor.png" width="100" height="60"></a></th>
+<th align="center"><a href="http://www.adapttech.eu/" rel="nofollow"><img src="https://camo.githubusercontent.com/97576b33531e877bd66ce78924f1864e9bf3747f/687474703a2f2f766973756d2e696e6573637465632e70742f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6164617074746563685f73706f6e736f722e706e67" alt="adapttech" data-canonical-src="http://visum.inesctec.pt/wp-content/uploads/2018/02/adapttech_sponsor.png" width="100" height="60"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="http://www.neadvance.com/" rel="nofollow">PLATINUM SPONSOR</a></td>
+<td align="center"><a href="http://www.adapttech.eu/" rel="nofollow">BRONZE SPONSOR</a></td>
+</tr></tbody></table>
+
