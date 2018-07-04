@@ -19,15 +19,12 @@ VISUM 2018 Summer School -  http://visum.inesctec.pt/
 ![alt text](http://visum.inesctec.pt/wp-content/uploads/2018/07/programme_2018-1.png)
 
 ## VISUM SPONSORS & PARTNERS
-| [![Neadvance](http://visum.inesctec.pt/wp-content/uploads/2018/02/neadvance_sponsor.png)](Neadvance)  | [![adapttech](http://visum.inesctec.pt/wp-content/uploads/2018/02/adapttech_sponsor.png)](http://www.adapttech.eu/) |
-|:---:|:---:|
-| http://www.neadvance.com/ | http://www.adapttech.eu/ |
-
+###### Sponsors
 <table>
 <thead>
 <tr>
-<th align="center"><a href="/visum-summerschool/visum-2018/blob/master/Neadvance"><img src="https://camo.githubusercontent.com/a03bcfc41f4ee5b9f2d0aa8f9a3b7e54ab4bf83d/687474703a2f2f766973756d2e696e6573637465632e70742f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6e65616476616e63655f73706f6e736f722e706e67" alt="Neadvance" data-canonical-src="http://visum.inesctec.pt/wp-content/uploads/2018/02/neadvance_sponsor.png" width="100" height="60"></a></th>
-<th align="center"><a href="http://www.adapttech.eu/" rel="nofollow"><img src="https://camo.githubusercontent.com/97576b33531e877bd66ce78924f1864e9bf3747f/687474703a2f2f766973756d2e696e6573637465632e70742f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6164617074746563685f73706f6e736f722e706e67" alt="adapttech" data-canonical-src="http://visum.inesctec.pt/wp-content/uploads/2018/02/adapttech_sponsor.png" width="100" height="60"></a></th>
+<th align="center"><a href=http://www.neadvance.com/><img src="http://visum.inesctec.pt/wp-content/uploads/2018/02/neadvance_sponsor.png" width="200" height="120"></a></th>
+<th align="center"><a href="http://www.adapttech.eu/"><img src="http://visum.inesctec.pt/wp-content/uploads/2018/02/adapttech_sponsor.png" width="200" height="120"></a></th>
 </tr>
 </thead>
 <tbody>
@@ -35,4 +32,17 @@ VISUM 2018 Summer School -  http://visum.inesctec.pt/
 <td align="center"><a href="http://www.neadvance.com/" rel="nofollow">PLATINUM SPONSOR</a></td>
 <td align="center"><a href="http://www.adapttech.eu/" rel="nofollow">BRONZE SPONSOR</a></td>
 </tr></tbody></table>
+
+###### Partnerships
+<table>
+<tr>
+<th align="center"><a href=https://cloud.google.com/><img src="http://visum.inesctec.pt/wp-content/uploads/2016/05/google_sponsor.png" width="100" height="60"></a></th>
+<th align="center"><a href="http://www.aprp.pt/"><img src="http://visum.inesctec.pt/wp-content/uploads/2018/02/aprp_sponsor.png" width="100" height="60"></a></th>
+<th align="center"><img src="http://visum.inesctec.pt/wp-content/uploads/2018/02/ieee_sponsor.png" width="100" height="60"></a></th>
+<th align="center"><a href=https://sigarra.up.pt/feup/pt/web_page.inicial><img src="http://visum.inesctec.pt/wp-content/uploads/2016/05/feup_sponsor.png" width="100" height="60"></a></th>
+<th align="center"><a href=https://dei.fe.up.pt/pt/home-page/><img src="http://visum.inesctec.pt/wp-content/uploads/2016/05/deec_sponsor.png" width="100" height="60"></a></th>
+<th align="center"><a href="https://web.fe.up.pt/~deec/deec/" rel="nofollow"><img src="http://visum.inesctec.pt/wp-content/uploads/2016/05/dei_sponsor.png" width="100" height="60"></a></th>
+</tr>
+<tbody>
+</table>
 
