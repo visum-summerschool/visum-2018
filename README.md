@@ -20,5 +20,5 @@ VISUM 2018 Summer School -  http://visum.inesctec.pt/
 
 ## VISUM SCHEDULE
 
-![alt text](http://visum.inesctec.pt/wp-content/uploads/2018/07/programme_2018.png)
+![alt text](http://visum.inesctec.pt/wp-content/uploads/2018/07/programme_2018-1.png)
 
