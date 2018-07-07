@@ -22,7 +22,7 @@ In order to perform the **registration of your team**, you must send an email to
 - Name of the team;
 - Name and Surname of each team element. 
 
-After that, you will receive an email with the IP adress of your machine along with the access password, as well as a FAQ to help with the use of the platform.
+After that, you will receive an email with the IP adress of your machine along with the access password, as well as a FAQ to help with the use of the platform. The FAQ and the two implemented baselines are also available [here](https://github.com/visum-summerschool/visum-2018/tree/master/Project). 
 
 
 ## VISUM SCHEDULE
