@@ -14,6 +14,18 @@ VISUM 2018 Summer School -  http://visum.inesctec.pt/
 </ul>
 &nbsp;
 
+## PROJECT REGISTRATION
+
+For the project competition you should be organized in **teams with at least 3 elements**.
+In order to perform the **registration of your team**, you must send an email to **dpc@inesctec.pt** with the folowing mandatory information:
+
+- Name of the team;
+- Name and Surname of each team element. 
+
+After that, you will receive an email with the IP adress of your machine along with the access password, as well as a FAQ to help with the use of the platform. You can also find the FAQ [here](faq.pdf).
+
+
+
 ## VISUM SCHEDULE
 
 ![alt text](http://visum.inesctec.pt/wp-content/uploads/2018/07/programme_2018-1.png)
