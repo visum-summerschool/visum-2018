@@ -1,4 +1,4 @@
-# Daily Leader Board (July 9th)
+# Daily Leader Board (July 8th)
 
 || Team | Weighted Error | Breast Contour 45% | Nipples 35% | Sternal Notch 20% |
 | :---: | :---: | :---: | :---: | :---: | :---: |
